@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "5fec53e2ad7f000049000e99"
+  },
+  "email": "raina@gmail.com",
+  "pickup_loc": "Kormangala",
+  "dropoff_loc": "Mathikeri",
+  "pickup_date": "2020-12-30",
+  "dropoff_date": "2020-12-31",
+  "pickup_time": "04:50",
+  "car_name": "Honda Amaze",
+  "status": "Returned",
+  "Distance": "2",
+  "Fare": "150",
+  "Total": "300"
+}]

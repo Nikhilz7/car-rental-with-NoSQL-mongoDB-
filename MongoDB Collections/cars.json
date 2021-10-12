@@ -1,0 +1,76 @@
+[{
+  "_id": 1,
+  "car_id": 1,
+  "car_name": "Tata Nexon",
+  "car_img": "images/nexon.jpg",
+  "car_priceperday": 400,
+  "car_priceperkm": 15,
+  "car_availability": "yes",
+  "car_availabilty": "yes"
+},{
+  "_id": 2,
+  "car_id": 2,
+  "car_name": "Range Rover",
+  "car_img": "images/rover.jpg",
+  "car_priceperday": "500",
+  "car_priceperkm": "18",
+  "car_availability": "yes",
+  "car_availabilty": "yes"
+},{
+  "_id": 4,
+  "car_id": 4,
+  "car_name": "Honda Amaze",
+  "car_img": "images/amaze.png",
+  "car_priceperday": "375",
+  "car_priceperkm": "17",
+  "car_availability": "yes"
+},{
+  "_id": 5,
+  "car_id": 5,
+  "car_name": "Ford Figo",
+  "car_img": "images/figo.png",
+  "car_priceperday": 350,
+  "car_priceperkm": 16,
+  "car_availability": "yes"
+},{
+  "_id": 6,
+  "car_id": 6,
+  "car_name": "Toyota Innova",
+  "car_img": "images/Innova.png",
+  "car_priceperday": 500,
+  "car_priceperkm": 17,
+  "car_availability": "yes"
+},{
+  "_id": 7,
+  "car_id": 7,
+  "car_name": "Maruti Suzuki Ertiga",
+  "car_img": "images/ertiga.jpg",
+  "car_priceperday": 500,
+  "car_priceperkm": 16,
+  "car_availability": "yes"
+},{
+  "_id": 8,
+  "car_id": 8,
+  "car_name": "Maruti Suzuki Ciaz",
+  "car_img": "images/Ciaz.jpg",
+  "car_priceperday": "300",
+  "car_priceperkm": "16",
+  "car_availability": "yes"
+},{
+  "_id": 9,
+  "car_id": 9,
+  "car_name": "Maruti Suzuki Dzire",
+  "car_img": "images/dzire.png",
+  "car_priceperday": 450,
+  "car_priceperkm": 16,
+  "car_availability": "yes"
+},{
+  "_id": {
+    "$oid": "5feb22ee5a360000a00077c4"
+  },
+  "car_name": "Alto-800",
+  "car_priceperday": "350",
+  "car_priceperkm": "14",
+  "car_img": "images/alto.png",
+  "car_availability": "yes"
+}]
