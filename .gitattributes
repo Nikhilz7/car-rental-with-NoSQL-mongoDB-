@@ -1,7 +1,7 @@
  *.* linguist-language=php
 *.java linguist-detectable=false  
-*.js linguist-detectable=true  
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false
-*.css linguist-detectable=false
-*.less linguist-detectable=false
+.js linguist-detectable=true  
+.html linguist-detectable=false  
+.xml linguist-detectable=false
+.css linguist-detectable=false
+.less linguist-detectable=false
